@@ -31,10 +31,20 @@
 
 ### Projets en avant
 
-- [**testEntrainement**](https://github.com/Fellous/testEntrainement) : description rapide  
-- [**test-foujole**](https://github.com/Fellous/test-foujole) : description rapide  
-- [**testOrel**](https://github.com/Fellous/testOrel) : description rapide  
-- [**Fellous.github.io**](https://github.com/Fellous/Fellous.github.io) : ma page GitHub perso (CSS)  
+
+
+- [**Guemiloute**](https://github.com/Fellous/Guemiloute) *(PHP)*
+  - Application web back-end en PHP, gère XYZ fonctionnalités...
+
+- [**docker-node**](https://github.com/Fellous/docker-node) *(JavaScript / Docker)*
+  - Démonstration de l’utilisation de Docker et Node.js pour déployer une app web rapidement…
+
+- [**parking-adruino-api**](https://github.com/Fellous/parking-adruino-api) *(JavaScript / Arduino)*
+  - Gestion d’un système de parking connecté avec une API, montre une approche IoT / hardware...
+
+- [**mariage_api_new**](https://github.com/Fellous/mariage_api_new) *(C#)*
+  - Projet .NET avec logique métier autour d’un mariage, illustre des compétences C# et ASP.NET...
+
 
 ---
 
